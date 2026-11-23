@@ -1,0 +1,10 @@
+{
+  "version": "0.3.5-alpha",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/ivyfated/luma-updates/releases/download/v0.3.5-alpha/LUMA-0.3.5-alpha-Windows-Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ09YWXE5WExZbTJtRm5pYUxUZVJMbU1UV0VnOVRxZmN4c3lKNHJtbDJBNW52b3pwUlhXZm02OUtER0JqTnljOEl2WStVQ3BiRUtPRXZXWTlBblVuT0NQREZya2NYUncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDU1MDY1CWZpbGU6TFVNQV8wLjMuNS1hbHBoYV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjUtYWxwaGEKM2luR3dPWXpNTlNsV2JIQS9nNjhRMGdqamlnSFArbGhqVGNLcm9MVGt1QXdQTTZwVU1zWTVtWjdVYnBKc0xNSkFsd1p3QldzbTQwaXJEQjAvMjNhREE9PQo="
+    }
+  },
+  "notes": "# LUMA 0.3.5-alpha\n\nOferta reservada ao ensaio de continuidade da versão-base 0.3.4-alpha. O número exibido em Atualizações do LUMA identifica a transição de teste. A interface e o contrato da API permanecem iguais."
+}
