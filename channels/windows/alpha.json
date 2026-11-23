@@ -1,10 +1,10 @@
 {
-  "version": "0.3.5-alpha",
+  "notes": "# LUMA 0.3.6-alpha — Windows\n\n- O instalador permite uma instalação inicial quando restaram apenas registros incompletos de uma instalação anterior.\n- Uma instalação NSIS identificada pode ser atualizada ou reparada no mesmo diretório. Registros conflitantes e tentativas de substituir um executável sem identificação continuam bloqueados.",
+  "version": "0.3.6-alpha",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/ivyfated/luma-updates/releases/download/v0.3.5-alpha/LUMA-0.3.5-alpha-Windows-Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ09YWXE5WExZbTJtRm5pYUxUZVJMbU1UV0VnOVRxZmN4c3lKNHJtbDJBNW52b3pwUlhXZm02OUtER0JqTnljOEl2WStVQ3BiRUtPRXZXWTlBblVuT0NQREZya2NYUncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDU1MDY1CWZpbGU6TFVNQV8wLjMuNS1hbHBoYV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjUtYWxwaGEKM2luR3dPWXpNTlNsV2JIQS9nNjhRMGdqamlnSFArbGhqVGNLcm9MVGt1QXdQTTZwVU1zWTVtWjdVYnBKc0xNSkFsd1p3QldzbTQwaXJEQjAvMjNhREE9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ09YWXE5WExZbTViY2wyV1RvUitBTjMxTGZFTFFuaEZId0lrUUJYanZWV1piYWdnTkJUVk1PM24zV1hhYTF0bEY5bnFCNWcyZFRpQWdHWktoRHQ2NXZ0T1Jyc1llRUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcwMTA3CWZpbGU6TFVNQV8wLjMuNi1hbHBoYV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjYtYWxwaGEKQm90bFZLWGNnVzkrNHdqU1p4TDgvblpEN2NVVHlmMlZaZExaZWt0Zm5uTjJNUlg2MDJaVVYxTDB5d1g2NkJNcXZBV040bFVNemFoMzQrYTVGbkloREE9PQo=",
+      "url": "https://github.com/ivyfated/luma-updates/releases/download/v0.3.6-alpha/LUMA-0.3.6-alpha-Windows-Setup.exe"
     }
-  },
-  "notes": "# LUMA 0.3.5-alpha\n\nOferta reservada ao ensaio de continuidade da versão-base 0.3.4-alpha. O número exibido em Atualizações do LUMA identifica a transição de teste. A interface e o contrato da API permanecem iguais."
+  }
 }
