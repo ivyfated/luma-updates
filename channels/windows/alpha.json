@@ -1,10 +1,10 @@
-﻿{
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "url":  "https://github.com/ivyfated/luma-updates/releases/download/v0.3.7-alpha/LUMA-0.3.7-alpha-Windows-Setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ09YWXE5WExZbXphQUlaRE5IQlcxM1VtbzhLa2plZXFjMVlmS1gyVkxiRFhpekNhcVo2L0dsV0RpTnIwYVpoWkJnMWkwTDUwU3MxbGpveUtCQnBCbWZHMnR3NTE3WWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDgyNTYxCWZpbGU6TFVNQV8wLjMuNy1hbHBoYV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjctYWxwaGEKS2NSTzVtbUJvbTdialcvV1UzWWI4NmxMUGZQb053Q0VzaHF6V1FIR0dRcVhOaENuYUYvbnJMY011UDlhd0MzZ3NLZUs0YXpyVHdQSmdteHNkQ0hSQ0E9PQo="
-                                         }
-                  },
-    "version":  "0.3.7-alpha",
-    "notes":  "# LUMA 0.3.7-alpha\n\n- LUMA Visual 3.0: Redesign completo com tema cÃ³smico escuro (#0f0a17 e #171124) e acentos luminescentes em lilÃ¡s e roxo elÃ©trico.\n- Windows Desktop: Nova interface de 3 colunas com navegaÃ§Ã£o completa, minicard do jogador (@ivyfated), acompanhamento de metas, composer rÃ¡pido, feed interativo, painel de Los Santos, eventos do universo e celebridades em destaque.\n- Android Mobile: Nova interface adaptada com navegaÃ§Ã£o inferior de 5 abas (Feed, Explorar, + Criar elevado central, Atividade e Perfil), suporte a safe areas e Ã¡rea de toque WCAG.\n- Perfil Imersivo: Banner cinematogrÃ¡fico com avatar luminescente, selos de prestÃ­gio (Ãcone Mundial e Personagem Oficial), contadores de estatÃ­sticas e galeria em grid de 3 colunas.\n- AutenticaÃ§Ã£o CÃ³smica: Novo visual translÃºcido em glassmorphism com abas Entrar e Criar conta e seletor de fotos integrado.\n- AtualizaÃ§Ã£o Integrada: Totalmente compatÃ­vel com os canais oficiais de atualizaÃ§Ã£o Windows e Android, sem necessidade de desinstalaÃ§Ã£o e preservando contas, sessÃµes e dados locais."
+{
+  "version": "0.3.7-alpha",
+  "notes": "# LUMA 0.3.7-alpha\n\n- LUMA Visual 3.0: Redesign completo com tema cósmico escuro (#0f0a17 e #171124) e acentos luminescentes em lilás e roxo elétrico.\n- Windows Desktop: Nova interface de 3 colunas com navegação completa, minicard do jogador (@ivyfated), acompanhamento de metas, composer rápido, feed interativo, painel de Los Santos, eventos do universo e celebridades em destaque.\n- Android Mobile: Nova interface adaptada com navegação inferior de 5 abas (Feed, Explorar, + Criar elevado central, Atividade e Perfil), suporte a safe areas e área de toque WCAG.\n- Perfil Imersivo: Banner cinematográfico com avatar luminescente, selos de prestígio (Ícone Mundial e Personagem Oficial), contadores de estatísticas e galeria em grid de 3 colunas.\n- Autenticação Cósmica: Novo visual translúcido em glassmorphism com abas Entrar e Criar conta e seletor de fotos integrado.\n- Atualização Integrada: Totalmente compatível com os canais oficiais de atualização Windows e Android, sem necessidade de desinstalação e preservando contas, sessões e dados locais.",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/ivyfated/luma-updates/releases/download/v0.3.7-alpha/LUMA-0.3.7-alpha-Windows-Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ09YWXE5WExZbXphQUlaRE5IQlcxM1VtbzhLa2plZXFjMVlmS1gyVkxiRFhpekNhcVo2L0dsV0RpTnIwYVpoWkJnMWkwTDUwU3MxbGpveUtCQnBCbWZHMnR3NTE3WWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDgyNTYxCWZpbGU6TFVNQV8wLjMuNy1hbHBoYV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjctYWxwaGEKS2NSTzVtbUJvbTdialcvV1UzWWI4NmxMUGZQb053Q0VzaHF6V1FIR0dRcVhOaENuYUYvbnJMY011UDlhd0MzZ3NLZUs0YXpyVHdQSmdteHNkQ0hSQ0E9PQo="
+    }
+  }
 }
