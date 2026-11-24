@@ -1,10 +1,10 @@
 {
-  "version": "0.3.7-alpha",
-  "notes": "# LUMA 0.3.7-alpha\n\n- LUMA Visual 3.0: Redesign completo com tema cósmico escuro (#0f0a17 e #171124) e acentos luminescentes em lilás e roxo elétrico.\n- Windows Desktop: Nova interface de 3 colunas com navegação completa, minicard do jogador (@ivyfated), acompanhamento de metas, composer rápido, feed interativo, painel de Los Santos, eventos do universo e celebridades em destaque.\n- Android Mobile: Nova interface adaptada com navegação inferior de 5 abas (Feed, Explorar, + Criar elevado central, Atividade e Perfil), suporte a safe areas e área de toque WCAG.\n- Perfil Imersivo: Banner cinematográfico com avatar luminescente, selos de prestígio (Ícone Mundial e Personagem Oficial), contadores de estatísticas e galeria em grid de 3 colunas.\n- Autenticação Cósmica: Novo visual translúcido em glassmorphism com abas Entrar e Criar conta e seletor de fotos integrado.\n- Atualização Integrada: Totalmente compatível com os canais oficiais de atualização Windows e Android, sem necessidade de desinstalação e preservando contas, sessões e dados locais.",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/ivyfated/luma-updates/releases/download/v0.3.7-alpha/LUMA-0.3.7-alpha-Windows-Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ09YWXE5WExZbXphQUlaRE5IQlcxM1VtbzhLa2plZXFjMVlmS1gyVkxiRFhpekNhcVo2L0dsV0RpTnIwYVpoWkJnMWkwTDUwU3MxbGpveUtCQnBCbWZHMnR3NTE3WWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDgyNTYxCWZpbGU6TFVNQV8wLjMuNy1hbHBoYV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjctYWxwaGEKS2NSTzVtbUJvbTdialcvV1UzWWI4NmxMUGZQb053Q0VzaHF6V1FIR0dRcVhOaENuYUYvbnJMY011UDlhd0MzZ3NLZUs0YXpyVHdQSmdteHNkQ0hSQ0E9PQo="
+      "url": "https://github.com/ivyfated/luma-updates/releases/download/v0.3.8-alpha/LUMA-0.3.8-alpha-Windows-Setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ09YWXE5WExZbXlhdDRYUmVNQnREQWYxNlc1T29aeTFwaGNGMWhJalhGL3J0MXV0SDduSGNua0NiWitSSGM3L0I3UThvUzJTNHZuYUxDM3N3aVlGeDFNaERnSkR1R3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg3NTE1CWZpbGU6TFVNQV8wLjMuOC1hbHBoYV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjgtYWxwaGEKYjRUWG5VNUJmeHpPNStuanlnRDNmdCtaN1NOOEcvN3hadWZpeklYVVoveStvclNwSllXTGpDWFpYQTlZN3pMMDVSOFAwMGJwZzF5emtQclJHU3JqQlE9PQo="
     }
-  }
+  },
+  "version": "0.3.8-alpha",
+  "notes": "# LUMA 0.3.8-alpha — Refinamento visual\n\n- Menu lateral e distribuição do feed refinados no Windows, com adaptação a janelas menores.\n- Navegação inferior de cinco itens e melhor aproveitamento do espaço no Android.\n- Melhorias de legibilidade, contraste e apresentação de fotos, perfis e publicações.\n- Caixa de entrada e conversa lado a lado no desktop amplo.\n- Contadores e destaques alimentados pelos dados disponíveis no serviço."
 }
