@@ -1,10 +1,10 @@
-{
-  "notes": "# LUMA 0.3.6-alpha — Windows\n\n- O instalador permite uma instalação inicial quando restaram apenas registros incompletos de uma instalação anterior.\n- Uma instalação NSIS identificada pode ser atualizada ou reparada no mesmo diretório. Registros conflitantes e tentativas de substituir um executável sem identificação continuam bloqueados.",
-  "version": "0.3.6-alpha",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ09YWXE5WExZbTViY2wyV1RvUitBTjMxTGZFTFFuaEZId0lrUUJYanZWV1piYWdnTkJUVk1PM24zV1hhYTF0bEY5bnFCNWcyZFRpQWdHWktoRHQ2NXZ0T1Jyc1llRUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcwMTA3CWZpbGU6TFVNQV8wLjMuNi1hbHBoYV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjYtYWxwaGEKQm90bFZLWGNnVzkrNHdqU1p4TDgvblpEN2NVVHlmMlZaZExaZWt0Zm5uTjJNUlg2MDJaVVYxTDB5d1g2NkJNcXZBV040bFVNemFoMzQrYTVGbkloREE9PQo=",
-      "url": "https://github.com/ivyfated/luma-updates/releases/download/v0.3.6-alpha/LUMA-0.3.6-alpha-Windows-Setup.exe"
-    }
-  }
+﻿{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://github.com/ivyfated/luma-updates/releases/download/v0.3.7-alpha/LUMA-0.3.7-alpha-Windows-Setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ09YWXE5WExZbXphQUlaRE5IQlcxM1VtbzhLa2plZXFjMVlmS1gyVkxiRFhpekNhcVo2L0dsV0RpTnIwYVpoWkJnMWkwTDUwU3MxbGpveUtCQnBCbWZHMnR3NTE3WWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDgyNTYxCWZpbGU6TFVNQV8wLjMuNy1hbHBoYV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjctYWxwaGEKS2NSTzVtbUJvbTdialcvV1UzWWI4NmxMUGZQb053Q0VzaHF6V1FIR0dRcVhOaENuYUYvbnJMY011UDlhd0MzZ3NLZUs0YXpyVHdQSmdteHNkQ0hSQ0E9PQo="
+                                         }
+                  },
+    "version":  "0.3.7-alpha",
+    "notes":  "# LUMA 0.3.7-alpha\n\n- LUMA Visual 3.0: Redesign completo com tema cÃ³smico escuro (#0f0a17 e #171124) e acentos luminescentes em lilÃ¡s e roxo elÃ©trico.\n- Windows Desktop: Nova interface de 3 colunas com navegaÃ§Ã£o completa, minicard do jogador (@ivyfated), acompanhamento de metas, composer rÃ¡pido, feed interativo, painel de Los Santos, eventos do universo e celebridades em destaque.\n- Android Mobile: Nova interface adaptada com navegaÃ§Ã£o inferior de 5 abas (Feed, Explorar, + Criar elevado central, Atividade e Perfil), suporte a safe areas e Ã¡rea de toque WCAG.\n- Perfil Imersivo: Banner cinematogrÃ¡fico com avatar luminescente, selos de prestÃ­gio (Ãcone Mundial e Personagem Oficial), contadores de estatÃ­sticas e galeria em grid de 3 colunas.\n- AutenticaÃ§Ã£o CÃ³smica: Novo visual translÃºcido em glassmorphism com abas Entrar e Criar conta e seletor de fotos integrado.\n- AtualizaÃ§Ã£o Integrada: Totalmente compatÃ­vel com os canais oficiais de atualizaÃ§Ã£o Windows e Android, sem necessidade de desinstalaÃ§Ã£o e preservando contas, sessÃµes e dados locais."
 }
