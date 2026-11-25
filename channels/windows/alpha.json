@@ -1,10 +1,10 @@
 {
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/ivyfated/luma-updates/releases/download/v0.3.8-alpha/LUMA-0.3.8-alpha-Windows-Setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ09YWXE5WExZbXlhdDRYUmVNQnREQWYxNlc1T29aeTFwaGNGMWhJalhGL3J0MXV0SDduSGNua0NiWitSSGM3L0I3UThvUzJTNHZuYUxDM3N3aVlGeDFNaERnSkR1R3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDg3NTE1CWZpbGU6TFVNQV8wLjMuOC1hbHBoYV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjgtYWxwaGEKYjRUWG5VNUJmeHpPNStuanlnRDNmdCtaN1NOOEcvN3hadWZpeklYVVoveStvclNwSllXTGpDWFpYQTlZN3pMMDVSOFAwMGJwZzF5emtQclJHU3JqQlE9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ09YWXE5WExZbTFIZ3pOWFozZkpTVkVCVEV0dCtsM1ZkOFFKN3BHMnNFaVBRK3lvbitHMEhxa2x6Yk5LS0k5RXc2V0dnMjZNTXR2SlFJR2VOSjFVaUVSUVJ5WmtOd0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTg1ODAxCWZpbGU6TFVNQV8wLjMuOS1hbHBoYV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjktYWxwaGEKeUl4ekRpTjBaZWhsUUlqWURwNXZqSnJmUjdwc0JtTVFZL3N5R1ZTancwUVd3VGdxbmtwOC96V01RSGlQY2ZQcDZyVG93TFRwZjkzK3NyaGJxN2VyQXc9PQo=",
+      "url": "https://github.com/ivyfated/luma-updates/releases/download/v0.3.9-alpha/LUMA-0.3.9-alpha-Windows-Setup.exe"
     }
   },
-  "version": "0.3.8-alpha",
-  "notes": "# LUMA 0.3.8-alpha — Refinamento visual\n\n- Menu lateral e distribuição do feed refinados no Windows, com adaptação a janelas menores.\n- Navegação inferior de cinco itens e melhor aproveitamento do espaço no Android.\n- Melhorias de legibilidade, contraste e apresentação de fotos, perfis e publicações.\n- Caixa de entrada e conversa lado a lado no desktop amplo.\n- Contadores e destaques alimentados pelos dados disponíveis no serviço."
+  "version": "0.3.9-alpha",
+  "notes": "# LUMA 0.3.9-alpha — Marco Zero: Sociedade Viva e Cadastro Aberto\n\n- Cadastro de novos membros aberto e livre, sem necessidade de códigos de convite.\n- Carta digital de boas-vindas com apresentação exclusiva na inauguração da conta.\n- Ingresso limpo de novos jogadores com zero seguidores e sem privilégios artificiais.\n- Integração da sociedade viva no feed oficial com celebridades e espectadores culturais.\n- Suporte aprimorado ao novo LUMA Studio e estabilidade operacional multiplataforma."
 }
