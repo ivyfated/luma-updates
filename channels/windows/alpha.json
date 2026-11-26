@@ -1,4 +1,4 @@
-﻿{
+{
     "platforms":  {
                       "windows-x86_64":  {
                                              "url":  "https://github.com/ivyfated/luma-updates/releases/download/v0.4.0-alpha/LUMA-0.4.0-alpha-Windows-Setup.exe",
