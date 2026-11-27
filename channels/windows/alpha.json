@@ -1,10 +1,10 @@
 {
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "url":  "https://github.com/ivyfated/luma-updates/releases/download/v0.4.0-alpha/LUMA-0.4.0-alpha-Windows-Setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ09YWXE5WExZbTRkYitMcUlCcGZtNjNkOUFyWW9lc2p4dlJYZkdrRlM2VVBSTG84MWp0QTZaSS9IcElYU2NqT09OZ2VzVVR0aXFuazZjeHZzaXRYR1ZHbHF6WTNsTkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjYzNzM0CWZpbGU6TFVNQV8wLjQuMC1hbHBoYV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjAtYWxwaGEKNXlQWTFzZ3BwNFBVRndLNEo4aHZ5VWZMN056Qno0UFFZcEhBc0tHYTltU1Z0QVIxTkRSV2JtTjIwTHNxZlZTdnR3dkR1a0FjOFl5ZUNXbU5hRGc4RFE9PQo="
-                                         }
-                  },
-    "version":  "0.4.0-alpha",
-    "notes":  "# LUMA 0.4.0-alpha â€” GestÃ£o Autoral, Sociedade Viva e Desempenho InstantÃ¢neo\n\n- Nova Central de GestÃ£o pessoal: trajetÃ³ria de ofÃ­cio, carteira em L$, catÃ¡logo preliminar dos 50 marcos individuais e Marco 00 \"Membro\".\n- Ranqueamento do feed \"Para VocÃª\" recalibrado para priorizar o frescor temporal, evitando que poucas curtidas antigas soterrem publicaÃ§Ãµes recentes.\n- TransiÃ§Ã£o instantÃ¢nea entre abas \"Para VocÃª\" e \"Seguindo\" com memÃ³ria independente de rolagem e sem telas roxas de carregamento.\n- Novo compositor inline compacto e expansÃ­vel para respostas e conversas em threads.\n- Menus de contexto de postagens aprimorados, fechando automaticamente ao clicar fora ou com a tecla Escape.\n- Sociedade viva conectada ao catÃ¡logo de inteligÃªncia cultural do LUMA Pulse e identidade fotogrÃ¡fica exclusiva por habitante na Media Library.\n- Cadastro, ediÃ§Ã£o, rascunho e ativaÃ§Ã£o de celebridades integrado no LUMA Studio com retratos e biografias licenciadas.\n- Ayrton Senna preservado em rascunho e fora das Ã¡reas pÃºblicas.\n- Continuidade estrita dos dados, contas e atualizadores contÃ­nuos oficiais no Windows e Android."
+  "version": "0.5.0-alpha",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ09YWXE5WExZbTVrcEtrcE5IV2t6UGFWMENIcmJlQ0tMWTNmR3lWSys0Z3o1ZXFFVzM5T3FtUVEvVU5TNlhENXRJenhwM1FIVTdJamE1UjU5RlB6WFBnckVLdlNpTUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA3NDQ0CWZpbGU6TFVNQV8wLjUuMC1hbHBoYV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC41LjAtYWxwaGEKcFJ3SzhUWVFzNVlkcHlKa2t0Zk96ZVIzWlhiN09hQm55SUphNjl1ZW13eEI1SFlsUkRxdmROQjJTem1nM3FEeEZJNFVGVTNVM2M3aHVlaWE5RitjQ2c9PQo=",
+      "url": "https://github.com/ivyfated/luma-updates/releases/download/v0.5.0-alpha/LUMA-0.5.0-alpha-Windows-Setup.exe"
+    }
+  },
+  "notes": "Vistoria privada da revisão de mídia LUMA 0.5.0-alpha."
 }
